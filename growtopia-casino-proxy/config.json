@@ -1,6 +1,4 @@
 {
     "ip": "127.0.0.1", //local host
-    "save_world": "10KFSAVEDPO",
-    "discord_webhook": "WEBHOOK", //optional, to check online gt mods
-    "owners": [you_discord_id]
+    "username": "10KFSAVEDPO",
 }
